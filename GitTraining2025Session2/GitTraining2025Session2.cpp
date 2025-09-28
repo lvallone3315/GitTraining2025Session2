@@ -2,8 +2,9 @@
 //
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
     std::cout << "Hello Git Session 2!\n";
+    cout << "Hello Git" << endl;
 }
