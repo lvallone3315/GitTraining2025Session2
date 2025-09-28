@@ -124,6 +124,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="GitTraining2025Session2.cpp" />
+    <ClCompile Include="LeesClass.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LeesClass.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

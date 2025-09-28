@@ -18,5 +18,13 @@
     <ClCompile Include="GitTraining2025Session2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LeesClass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LeesClass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
