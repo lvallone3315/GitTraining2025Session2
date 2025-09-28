@@ -8,4 +8,5 @@ int main()
     std::cout << "Hello Git Session 2!\n";
 	std::cout << "Hello Git Session 2 - Change 1!" << std::endl;
     cout << "Hello Git" << endl;
+	cout << "Lee's commit directly on github\n";
 }
