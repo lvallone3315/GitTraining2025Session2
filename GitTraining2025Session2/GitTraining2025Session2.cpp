@@ -7,6 +7,7 @@ int main()
 {
     std::cout << "Hello Git Session 2!\n";
 	std::cout << "Hello Git Session 2 - Change 1!" << std::endl;
-    cout << "Hello Git" << endl;
-	cout << "Lee's commit directly on github\n";
+	std::cout << "Hello Git" << endl;
+	std::cout << "Lee's commit directly on github\n";
+	std::cout << "Daniel knows the Jira is TTT2025W-18\n";
 }
